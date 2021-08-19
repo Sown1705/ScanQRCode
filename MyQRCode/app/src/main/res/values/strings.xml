@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scan QR Code</string>
+    <string name="scanQR">Scan QR</string>
+    <string name="newQR">New QR</string>
+    <string name="fb">Facebook: Trịnh Công Sơn</string>
+    <string name="about">About App</string>
+</resources>
